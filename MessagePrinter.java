@@ -12,7 +12,7 @@ public class MessagePrinter {
     }
 
     public static String getGoodbyeMessage() {
-        return "Thank you for using MessagePrinter!";
+        return "Thank you for using MessagePrinter! Have a great day!";
     }
 
     public static String getAuthorMessage() {
