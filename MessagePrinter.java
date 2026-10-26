@@ -21,9 +21,9 @@ public class MessagePrinter {
 
     public static void main(String[] args) {
         System.out.println(getWelcomeMessage());
-        System.out.println(getDateMessage());
-        System.out.println(getTimeMessage());
-        System.out.println(getAuthorMessage());
+System.out.println(getTimeMessage());
+System.out.println(getDateMessage());
+System.out.println(getAuthorMessage());
         System.out.println("Learning remote repositories!");
         System.out.println(getGoodbyeMessage());
     }
